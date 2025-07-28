@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/duythong28/private-medical-clinic-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Lmt310104/private-medical-clinic-backend
