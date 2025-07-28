@@ -4,7 +4,7 @@ A private clinic platform that streamlines appointment booking, medical records,
 # Technologies
 <ul>
   <li><b>Frontend: </b> ReactJS, SCSS, Boostrap, React Query, Redux</li>
-    <li><b>Backend:</b> NodeJS, ExpressJS</li>
+    <li><b>Backend:</b> NodeJS, ExpressJS, MySQL</li>
 </ul>
 
 # Features
