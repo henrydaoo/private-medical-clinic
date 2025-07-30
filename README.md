@@ -21,6 +21,7 @@ A private clinic platform that streamlines appointment booking, medical records,
   <li>Authorize and authenticate users.</li>
   <li>Update rules of clinic.</li>
 </ul>
+<img width="3840" height="2856" alt="image" src="https://github.com/user-attachments/assets/1c9ab90d-6131-4b21-9bef-cfb35ab4fa56" />
 
 
 
