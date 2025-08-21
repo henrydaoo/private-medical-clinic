@@ -1,4 +1,4 @@
-# Private Medical Clinic 🏥
+# Private Medical Clinic 🏥 - Clinic Management System
 
 **Overview**  
 A clinic management system that streamlines appointment booking, patient records, billing, and reporting.
