@@ -15,9 +15,6 @@ A clinic management system that streamlines appointment booking, patient records
 - Patient portal with OTP login for profile & history  
 - Reports on medicine usage and sales  
 
-**My Role**  
-Fullstack Lead – built authentication, data management, reporting; created roadmap and guided team members.
-
 **Links**  
 - [GitHub Repo](https://github.com/henrydaoo/private-medical-clinic)  
 
